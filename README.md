@@ -17,3 +17,5 @@
 <br>
 [8. Modal or Popup without JavaScript](https://github.com/harishkrishnan18/32-HTML-And-CSS-Projects-For-Beginners/tree/main/Modal%20or%20Popup%20without%20JavaScript)
 <br>
+[9. Animated gradient ghost button](https://github.com/harishkrishnan18/32-HTML-And-CSS-Projects-For-Beginners/tree/main/Animated%20gradient%20ghost%20button)
+<br>
