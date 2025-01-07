@@ -19,5 +19,5 @@
 <br>
 [9. Animated gradient ghost button](https://github.com/harishkrishnan18/32-HTML-And-CSS-Projects-For-Beginners/tree/main/Animated%20gradient%20ghost%20button)
 <br>
-[10. CSS image slider]()
+[10. CSS image slider](https://github.com/harishkrishnan18/32-HTML-And-CSS-Projects-For-Beginners/tree/main/CSS%20image%20slider)
 <br>
