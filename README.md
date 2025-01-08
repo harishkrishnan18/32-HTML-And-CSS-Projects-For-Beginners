@@ -21,3 +21,7 @@
 <br>
 [10. CSS image slider](https://github.com/harishkrishnan18/32-HTML-And-CSS-Projects-For-Beginners/tree/main/CSS%20image%20slider)
 <br>
+[11. Basic HTML and CSS Layout](https://github.com/harishkrishnan18/32-HTML-And-CSS-Projects-For-Beginners/tree/main/Basic%20HTML%20and%20CSS%20Layout)
+<br>
+[12. Tribute Page](https://github.com/harishkrishnan18/32-HTML-And-CSS-Projects-For-Beginners/tree/main/Tribute%20Page)
+<br>
