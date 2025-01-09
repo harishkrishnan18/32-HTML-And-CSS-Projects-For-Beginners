@@ -25,3 +25,5 @@
 <br>
 [12. Tribute Page](https://github.com/harishkrishnan18/32-HTML-And-CSS-Projects-For-Beginners/tree/main/Tribute%20Page)
 <br>
+[13. Survey Page](https://github.com/harishkrishnan18/32-HTML-And-CSS-Projects-For-Beginners/tree/main/Survey%20Page)
+<br>
