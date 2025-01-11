@@ -29,3 +29,5 @@
 <br>
 [14. Sign-up page / Log-in page](https://github.com/harishkrishnan18/32-HTML-And-CSS-Projects-For-Beginners/tree/main/Sign-up%20or%20Log-in%20page)
 <br>
+[15. Job application form page](https://github.com/harishkrishnan18/32-HTML-And-CSS-Projects-For-Beginners/tree/main/Job%20application%20form%20page)
+<br>
